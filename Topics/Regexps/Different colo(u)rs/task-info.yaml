@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: val color = TODO()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10727#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 06 Oct 2021 04:09:50 UTC
+record: -1
